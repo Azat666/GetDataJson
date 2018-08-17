@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="item_size">100dp</dimen>
+    <dimen name="reletiv_width">382dp</dimen>
+    <dimen name="image_size">90dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="text_size">200dp</dimen>
+    <dimen name="big_image_200">200dp</dimen>
+</resources>
